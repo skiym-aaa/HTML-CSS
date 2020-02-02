@@ -61,6 +61,7 @@ main{
 .title{
   margin: 15px 0 5px;
 }
+<<<<<<< HEAD
 
 @media screen and (max-width:425px) {
  main {
@@ -72,3 +73,5 @@ main{
   margin: 20px 5% 20px 5%;
  }
 }
+=======
+>>>>>>> 1992e43e1ce0137cb3ef52258695c8dc5d11fe03
